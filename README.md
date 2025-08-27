@@ -1,4 +1,4 @@
-# Summer-Internship-II---22AIML023
+# Summer Internship II (22AIML023)
 Task Management System developed during summer internship
 
 This repository contains my work during the Summer Internship II at TLK Industried ,Surat. I developed a comprehensive Task Management System using PHP and MySQL with role-based access control.
